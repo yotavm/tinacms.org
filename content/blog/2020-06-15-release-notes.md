@@ -7,9 +7,11 @@ This week we've continued down the road of taking Inline Editing to the next lev
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4qGz0cP_DSA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-We're taking a break from development now to put together a simple guide on how to setup inline editing on your own website!
+We're taking a break from development now to put together a simple guide on how to set up inline editing on your own website!
 
 ## Changes
+
+<iframe width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https://www.figma.com/file/QF89I4kmetn7YBG5mg9XrB/Tina-Editing-Workflow-%7C-March-2020-Sketches?node-id=0%3A1&chrome=DOCUMENTATION" allowfullscreen></iframe>
 
 ### @tinacms/fields
 
@@ -47,7 +49,7 @@ Improvements
 
 Bug Fixes
 
-* Fixed click event handling in the Settings modal. This fixed an issue that broke the Toggle Field. 
+* Fixed click event handling in the Settings modal. This fixed an issue that broke the Toggle Field.
 * In the Settings modal the Block and Group stay within the modal
 
 ### react-tinacms-editor
