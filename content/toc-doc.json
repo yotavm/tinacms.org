@@ -282,6 +282,11 @@
     ]
   },
   {
+    "id": "faq",
+    "title": "FAQ",
+    "slug": "/faq/"
+  },
+  {
     "id": "guides",
     "title": "Guides",
     "slug": "/guides/",
